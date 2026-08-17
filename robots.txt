@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://juristjonker.nl/sitemap.xml
